@@ -1,0 +1,17 @@
+{
+  "name": "aula05",
+  "version": "1.0.0",
+  "description": "Projeto inicial de programação back-end",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "senai",
+    "dev"
+  ],
+  "author": "João Gianoni",
+  "license": "MIT"
+}
